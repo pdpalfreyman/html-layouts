@@ -1,0 +1,21 @@
+html, body{
+  background: gray;
+  width: 100%;
+  height: 100%;
+}
+.box{
+  background: #262626;
+  width: 99%;
+  height: 25%
+}
+.box2 {
+  background: white;
+  height: 100%;
+  margin: 0 15% 0 15%;
+}
+.box3 {
+  background: black;
+  float: bottom;
+  height: 15%;
+  margin:0 15%;
+}
